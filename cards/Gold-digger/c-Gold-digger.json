@@ -3,52 +3,56 @@
         {
             "class" : "farmer",
             "passif" : true,
-            "civilisation" : false,
+            "civilisation" : null,
             "life" : 150,
             "resources" : {
                 "wood" : 0,
                 "stone" : 0,
                 "gold" : 100
             },
+            "effect" : null,
             "unique" : false
         },
 
         {
             "class" : "farmer",
             "passif" : true,
-            "civilisation" : false,
+            "civilisation" : null,
             "life" : 180,
             "resources" : {
                 "wood" : 0,
                 "stone" : 0,
                 "gold" : 180
             },
+            "effect" : null,
             "unique" : false
         },
 
         {
             "class" : "farmer",
             "passif" : true,
-            "civilisation" : false,
+            "civilisation" : null,
             "life" : 225,
             "resources" : {
                 "wood" : 0,
                 "stone" : 0,
                 "gold" : 268
             },
+            "effect" : null,
             "unique" : false
         },
         
         {
             "class" : "farmer",
             "passif" : true,
-            "civilisation" : false,
+            "civilisation" : null,
             "life" : 270,
             "resources" : {
                 "wood" : 0,
                 "stone" : 0,
                 "gold" : 366
             },
+            "effect" : null,
             "unique" : false
         }
     ]

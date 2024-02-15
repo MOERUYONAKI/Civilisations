@@ -13,6 +13,7 @@
             "powers" : {
 
             },
+            "effect" : null,
             "unique" : true
         },
 
@@ -29,6 +30,7 @@
             "powers" : {
 
             },
+            "effect" : null,
             "unique" : true
         },
 
@@ -45,6 +47,7 @@
             "powers" : {
 
             },
+            "effect" : null,
             "unique" : true
         },
         
@@ -61,6 +64,7 @@
             "powers" : {
 
             },
+            "effect" : null,
             "unique" : true
         }
     ]

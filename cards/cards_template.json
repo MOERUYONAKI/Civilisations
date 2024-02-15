@@ -10,6 +10,7 @@
                 "stone" : 0,
                 "gold" : 0
             },
+            "effect" : null,
             "unique" : true
         }
     ]

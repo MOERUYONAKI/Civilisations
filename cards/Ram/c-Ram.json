@@ -3,37 +3,40 @@
         {
             "class" : "attacker",
             "passif" : false,
-            "civilisation" : false,
+            "civilisation" : null,
             "life" : 450,
             "resources" : {
                 "wood" : 0,
                 "stone" : 0,
                 "gold" : 0
             },
+            "effect" : null,
             "unique" : false
         },
         {
             "class" : "attacker",
             "passif" : false,
-            "civilisation" : false,
+            "civilisation" : null,
             "life" : 540,
             "resources" : {
                 "wood" : 0,
                 "stone" : 0,
                 "gold" : 0
             },
+            "effect" : null,
             "unique" : false
         },
         {
             "class" : "attacker",
             "passif" : false,
-            "civilisation" : false,
+            "civilisation" : null,
             "life" : 675,
             "resources" : {
                 "wood" : 0,
                 "stone" : 0,
                 "gold" : 0
             },
+            "effect" : null,
             "unique" : false
         },
         {
@@ -46,6 +49,7 @@
                 "stone" : 0,
                 "gold" : 0
             },
+            "effect" : null,
             "unique" : false
         }
     ]

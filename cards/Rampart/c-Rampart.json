@@ -3,49 +3,53 @@
         {
             "class" : "Technologies",
             "passif" : true,
-            "civilisation" : false,
+            "civilisation" : null,
             "life" : 1500,
             "resources" : {
                 "wood" : -100,
                 "stone" : -30,
                 "gold" : 0
             },
+            "effect" : null,
             "unique" : true
         },
         {
             "class" : "Technologies",
             "passif" : true,
-            "civilisation" : false,
+            "civilisation" : null,
             "life" : 1800,
             "resources" : {
                 "wood" : -180,
                 "stone" : -54,
                 "gold" : 0
             },
+            "effect" : null,
             "unique" : true
         },
         {
             "class" : "Technologies",
             "passif" : true,
-            "civilisation" : false,
+            "civilisation" : null,
             "life" : 2250,
             "resources" : {
                 "wood" : -268,
                 "stone" : -80,
                 "gold" : 0
             },
+            "effect" : null,
             "unique" : true
         },
         {
             "class" : "Technologies",
             "passif" : true,
-            "civilisation" : false,
+            "civilisation" : null,
             "life" : 1500,
             "resources" : {
                 "wood" : -366,
                 "stone" : -109,
                 "gold" : 0
             },
+            "effect" : null,
             "unique" : true
         }
     ]

@@ -3,7 +3,7 @@
         {
             "class" : "Technologies",
             "passif" : true,
-            "civilisation" : false,
+            "civilisation" : null,
             "life" : 0,
             "resources" : {
                 "wood" : -30,
@@ -17,7 +17,7 @@
         {
             "class" : "Technologies",
             "passif" : true,
-            "civilisation" : false,
+            "civilisation" : null,
             "life" : 0,
             "resources" : {
                 "wood" : -54,
@@ -31,7 +31,7 @@
         {
             "class" : "Technologies",
             "passif" : true,
-            "civilisation" : false,
+            "civilisation" : null,
             "life" : 0,
             "resources" : {
                 "wood" : -80,
@@ -45,7 +45,7 @@
         {
             "class" : "Technologies",
             "passif" : true,
-            "civilisation" : false,
+            "civilisation" : null,
             "life" : 0,
             "resources" : {
                 "wood" : -109,
